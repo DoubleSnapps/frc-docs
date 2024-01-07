@@ -84,7 +84,7 @@ REV Robotics currently offers the SPARK Flex and SPARK MAX motor controller, whi
 REV Motor Controllers
 ^^^^^^^^^^^^^^^^^^^^^
 
-- **SPARK FLEX**
+- **SPARK Flex**
 
     - API Documentation (`Java <https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html>`__, `C++ <https://codedocs.revrobotics.com/cpp/namespacerev.html>`__)
     - `Technical Manual <https://docs.revrobotics.com/brushless/spark-flex/overview>`__
